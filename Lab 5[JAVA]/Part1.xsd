@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns:tns="http://tempuri.org/PurchaseOrderSchema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://tempuri.org/PurchaseOrderSchema.xsd"
+            elementFormDefault="qualified">
+<xs:element name = "Thread">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+
+           <xsd:complexType name = "Arraystudents">
+
+               <xs:sequence>
+                   <xsd:element name="Age"/>
+                   <xsd:element name="Course"/>
+                   <xsd:element name="Age"/>
+
+               </xs:sequence>
+           </xsd:complexType>
+    </xs:complexType>
+</xs:element>
+</xsd:schema>  

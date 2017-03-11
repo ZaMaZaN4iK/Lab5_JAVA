@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="by.belstu.fit.poit4.CHN.THREAD.Thread" id="Thread0">
+  <void property="name">
+   <string>FirstName</string>
+  </void>
+ </object>
+<void class="by.belstu.fit.poit4.CHN.THREAD.ABS_Thread" id="Field0" method="getField">
+ <string>ArrayStudents</string>
+ <void id="ArrayList0" method="get">
+  <object idref="Thread0"/>
+  <void method="add">
+   <object class="by.belstu.fit.poit4.CHN.FACULTY.Student">
+    <void property="age">
+     <int>1</int>
+    </void>
+    <void property="formStuding">
+     <object class="java.lang.Enum" method="valueOf">
+      <class>by.belstu.fit.poit4.CHN.FACULTY.FormStuding_ENUM</class>
+      <string>internally</string>
+     </object>
+    </void>
+    <void property="nameStudent">
+     <string>Second</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.belstu.fit.poit4.CHN.FACULTY.Student">
+    <void property="age">
+     <int>2</int>
+    </void>
+    <void property="formStuding">
+     <object class="java.lang.Enum" id="FormStuding_ENUM0" method="valueOf">
+      <class>by.belstu.fit.poit4.CHN.FACULTY.FormStuding_ENUM</class>
+      <string>inabsentia</string>
+     </object>
+    </void>
+    <void property="nameStudent">
+     <string>Third</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.belstu.fit.poit4.CHN.FACULTY.Student">
+    <void property="age">
+     <int>0</int>
+    </void>
+    <void property="formStuding">
+     <object idref="FormStuding_ENUM0"/>
+    </void>
+    <void property="nameStudent">
+     <string>First</string>
+    </void>
+   </object>
+  </void>
+ </void>
+</void>
+<void idref="ArrayList0"/>
+</java>

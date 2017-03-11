@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='ToHTML.xsl'?>
+
+<element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="Schema.xsd">>
+    <Student>
+        <NameStudent>First</NameStudent>
+        <Age>1</Age>(
+        <FormStuding>internally</FormStuding>
+    </Student>
+    <Student>
+        <NameStudent>Second</NameStudent>
+        <Age>2</Age>(
+        <FormStuding>externally</FormStuding>
+    </Student>
+</element>

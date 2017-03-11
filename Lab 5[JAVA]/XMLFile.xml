@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<absThread>
+    <arrayStudents age="0">
+        <age>0</age>
+        <formStuding>inabsentia</formStuding>
+        <nameStudent>First</nameStudent>
+    </arrayStudents>
+    <arrayStudents age="1">
+        <age>1</age>
+        <formStuding>internally</formStuding>
+        <nameStudent>Second</nameStudent>
+    </arrayStudents>
+    <arrayStudents age="2">
+        <age>2</age>
+        <formStuding>inabsentia</formStuding>
+        <nameStudent>Third</nameStudent>
+    </arrayStudents>
+</absThread>

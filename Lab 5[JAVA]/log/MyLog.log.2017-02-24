@@ -1,0 +1,58 @@
+24.02.2017 16:19:53 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - Starting program_____________________________
+24.02.2017 16:19:53 [main] INFO  by.belstu.fit.poit4.CHN.DEKANAT.Dekan  - %d{}
+Dekan was created
+24.02.2017 16:19:59 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - All DONE!)
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name = 1
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Age = 1
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Course = 1
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Group = 1
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Form studiyng is internally
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name of speciality is ISIT
+24.02.2017 16:20:03 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Number of speciality is 10-10
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name = 1
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Age = 1
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Course = 1
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Group = 1
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Form studiyng is internally
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name of speciality is ISIT
+24.02.2017 16:20:04 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Number of speciality is 10-10
+24.02.2017 16:20:06 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - java.lang.Exception: Work is over!
+24.02.2017 16:23:41 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - Starting program_____________________________
+24.02.2017 16:23:41 [main] INFO  by.belstu.fit.poit4.CHN.DEKANAT.Dekan  - %d{}
+Dekan was created
+24.02.2017 16:23:46 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - All DONE!)
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Age = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Course = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Group = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Form studiyng is internally
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name of speciality is ISIT
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Number of speciality is 10-10
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Age = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Course = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Group = 1
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Form studiyng is internally
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name of speciality is ISIT
+24.02.2017 16:23:48 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Number of speciality is 10-10
+24.02.2017 16:23:50 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - java.lang.Exception: Work is over!
+24.02.2017 16:25:21 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - Starting program_____________________________
+24.02.2017 16:25:21 [main] INFO  by.belstu.fit.poit4.CHN.DEKANAT.Dekan  - %d{}
+Dekan was created
+24.02.2017 16:25:30 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - All DONE!)
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name = 11
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Age = 1
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Course = 1
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Group = 1
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Form studiyng is internally
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name of speciality is ISIT
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Number of speciality is 10-10
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - There 1students
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name = 11
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Age = 1
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Course = 1
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Group = 1
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Form studiyng is internally
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Name of speciality is ISIT
+24.02.2017 16:25:32 [main] INFO  by.belstu.fit.poit4.CHN.FACULTY.Student  - Number of speciality is 10-10
+24.02.2017 16:25:33 [main] INFO  by.belstu.fit.poit4.CHN.MAIN.Main  - java.lang.Exception: Work is over!

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<class>
+    <Student>
+        <NameStudent>First</NameStudent>
+        <Age>1</Age>
+        <FormStuding>internally</FormStuding>
+    </Student>
+</class>
